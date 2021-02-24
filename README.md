@@ -28,3 +28,8 @@ O conteúdo está em construção. Lições concluídas estão identificadas pel
 
 ## Pré-requisitos
 Os códigos estão desenvolvidos na linguagem Python 3, e os pacotes NumPy, SciPy e Matplotlib são necessários. As lições estão organizadas em [Jupyter Notebooks](http://jupyter.org/). É recomendável a instalação do [Anaconda](https://docs.anaconda.com/anaconda/install/) para gerenciamento de pacotes e obtenção do Ambiente de Desenvolvimento Integrado [Spyder](https://www.spyder-ide.org/).
+
+Alternativamente, é possível executar todos os códigos disponíveis no ambiente virtual do [Google Colab](https://colab.research.google.com/), basta fazer upload dos notebooks em sua conta e executar os códigos.
+
+### Como usar essas notas de aula
+Ao clicar no link da aula, você será redirecionado para uma renderização do notebook referente à aula em html. Esta renderização não é editável, ou executável. É necessário fazer download do notebook para usá-lo localmente no seu computador, ou mesmo importá-lo usando Google Colab para edição e execução no navegador usando máquinas virtuais da Google.
