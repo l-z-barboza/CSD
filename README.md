@@ -10,7 +10,7 @@ O conteúdo está em construção. Lições concluídas estão identificadas pel
 ## Conteúdo
 
 ### 1. Introdução (:grey_exclamation:)
-1. Modelagem de sistemas I - Pêndulo simples (:grey_exclamation:)
+1. [Modelagem de sistemas I - Pêndulo simples (:grey_exclamation:)](https://nbviewer.jupyter.org/github/l-z-barboza/CSD/blob/main/notebooks/notebook1_1.ipynb)
 2. Modelagem de sistemas II - Circuitos elétricos (:x:)
 
 ### 2. Transformadas integrais (:x:)
